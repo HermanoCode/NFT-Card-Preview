@@ -12,7 +12,8 @@ The repository in front of you contains a simple and clear solution for the "NFT
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Links](#screenshot)
+  - [Built-with](#built-with)
 - [Author](#author)
 
 ## I-Overview
@@ -32,12 +33,19 @@ In order to complete this challenge you should be able to:
   - Font size and weight
   - Choosing the right color
 
-### Screenshots
+### Links to deplyed website
 
-## Desktop view
+- Live Site URL: [https://nft-card-preview-gold.vercel.app/](https://nft-card-preview-gold.vercel.app/)
 
-![Desktop view](./NFT-Desktop-Overview.png)
+### Built with
 
-## Mobile view
+- Semantic and basic HTML5
+- Plain CSS
 
-![Mobile view](<../NFT Mobile Overview.png>)
+**!NOTE: No advanced languages were used in this project such as: 'React JS', 'Tailwind' or any oder library**
+
+### Author
+
+This Solution was provided and created by KhamzatCode
+
+- Link to my Frontend Mentor account: [@KhamzatCode](https://www.frontendmentor.io/profile/HermanoCode)
